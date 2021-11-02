@@ -4,16 +4,9 @@ header{
 }
 nav{
     background-color: #FFF9B6;padding: 10px;font-family: Arial;
+  
 }
-    #menu ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    }
-    #menu ul li{
-    display: inline-block;     
-    padding-inline: 120px;
-}    
+    
     
 section{
     background-color:  #FF9292;
@@ -29,4 +22,5 @@ footer{
 main{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
+       
 }
