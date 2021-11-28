@@ -1,0 +1,26 @@
+header{
+    background-color: #FFE699;
+    padding-inline: 150px;
+}
+nav{
+    background-color: #FFF9B6;padding: 10px;font-family: Arial;
+  
+}
+    
+    
+section{
+    background-color:  #FF9292;
+    grid-column:1/4 ;
+}
+aside{
+    background-color: #FFCCD2;
+    grid-column: 4/5 ;
+}
+footer{
+    background-color: #FFF7E0;
+}
+main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+       
+}
